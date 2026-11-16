@@ -1,7 +1,7 @@
 # Assignment 2 – Decision Tree Classification
 
-**Student Name:** Aniket Singh
-**Roll Number:** 2501012308
+**Student Name:** Rhythm Singhal
+**Roll Number:** 2401010300
 **Assignment:** 2
 **Language:** Python
 **Environment:** Google Colab / Jupyter Notebook
@@ -147,7 +147,7 @@ These examples demonstrate how the model can identify potentially suspicious log
 ```text
 Assignment-2/
 │
-├── Assignment 2 Ritik Sharma (2401010058).ipynb
+├── Assignment 2 Ritik Sharma (2401010300).ipynb
 ├── simple_login_activity.csv
 └── README.md
 ```
@@ -165,7 +165,7 @@ git clone <your-repository-url>
 Open:
 
 ```text
-Assignment 2 Ritik Sharma (2401010058).ipynb
+Assignment 2 Rhythm Singhal (2401010300).ipynb
 ```
 
 using either **Google Colab** or **Jupyter Notebook**.
@@ -214,6 +214,6 @@ The experiment provides practical understanding of how raw data can be cleaned, 
 
 ---
 
-**Author:** Aniket Singh 
-**Roll No.:** 2501012308  
+**Author:** Rhythm Singhal
+**Roll No.:** 2401010300  
 **Assignment:** 2
